@@ -1,74 +1,57 @@
 {"rooms":
   [
     {
-      "roomName":"ΒΑ",
+      "roomName":"Αιθ. Τελετών",
       "standardRows":{
-        "nrows":18,
-        "nseats":24
+        "nrows":24,
+        "nseats":100
       },
       "exceptRows":[]
     },
     {
-      "roomName":"Β3",
+      "roomName":"Αιθ. Συνεδρίων",
       "standardRows":{
-        "nrows":6,
-        "nseats":14
+        "nrows":10,
+        "nseats":60
       },
       "exceptRows":[
       ]
     },
     {
-      "roomName":"Β4",
+      "roomName":"Αιθ 234",
       "standardRows":{
         "nrows":11,
-        "nseats":14
+        "nseats":50
       },
       "exceptRows":[
-        {"rowid":2, "nseats":12}
       ]
     },
     {
-      "roomName":"Γ",
+      "roomName":"Αμφ 12",
       "standardRows":{
         "nrows":14,
         "nseats":17
       },
       "exceptRows":[
-        {"rowid":1, "nseats":6}
       ]
     },
-    {
-      "roomName":"Δ1",
+        {
+      "roomName":"Γήπεδο",
       "standardRows":{
-        "nrows":10,
-        "nseats":11
+        "nrows":50,
+        "nseats":150
       },
       "exceptRows":[
       ]
     },
     {
-      "roomName":"Δ2",
+      "roomName":"ΚΥΔ",
       "standardRows":{
         "nrows":10,
-        "nseats":11
+        "nseats":50
       },
       "exceptRows":[
       ]
-    },
-    {
-      "roomName":"Εργ. Ηλεκτρονικής",
-      "standardRows":0,
-      "exceptRows":[]
-    },
-    {
-      "roomName":"Εργ. Λογικής Σχεδίασης",
-      "standardRows":0,
-      "exceptRows":[]
-    },
-    {
-      "roomName":"Εργ. ΒΘΑΥ",
-      "standardRows":0,
-      "exceptRows":[]
     },
     {
       "roomName":"Υπολογιστικό Κέντρο",
